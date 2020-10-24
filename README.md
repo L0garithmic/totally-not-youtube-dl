@@ -1,6 +1,6 @@
-# Before you DMCA this repo, it's totally not what you think it is
+# Not what you think it is
 
-This repo only contains a sha1 hash and a few links. The hash and magnet link are just some strings of characters. Nothing more.
+This repo only contains a sha1 hash and a few links. The hash and magnet link are just some strings of characters. Nothing more. If you happen to think otherwise and that this repo **itself** contains the youtube-dl code, you are mistaken.
 
 [mirror 1](https://mega.nz/folder/u0Bwgb5Q#TR5vCpdicbz3hyYvlw9NfQ)
 
